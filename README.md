@@ -1,6 +1,3 @@
-# sec_10k_retriever
-Repository created for the purposes of Quartr home assignement. Details in readme.
-=======
 # SEC 10-K Retriever → PDF (Quartr Take-Home)
 
 This script fetches the latest **10-K** filing for a list of companies from the **SEC EDGAR** API and converts the primary filing HTML into a **PDF**.
